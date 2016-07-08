@@ -1,0 +1,234 @@
+body {
+	background: url("../images/gray.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	text-align: center;
+}
+.entete {
+	font-size: 40px;
+	color: #E70101;
+	border: 1px solid #E70101;
+	width: 800px;
+	background-color: white;
+	border-radius: 5px;
+	margin: 0 auto;
+	position: relative;
+	top: 20px;
+}
+.contact {
+	float: left;
+	width: 100px;
+	height: 112px;
+	border-radius: 5px;
+}
+.pBete {
+	float: right;
+	width: 100px;
+	height: 112px;
+	position: relative;
+	top: 10px;
+	right: 10px;
+}
+.pBete2 {
+	float: right;
+	width: 100px;
+	height: 112px;
+	position: relative;
+	top: 187px;
+	left: 90px;
+}
+.pBete3 {
+	float: right;
+	width: 100px;
+	height: 112px;
+	position: relative;
+	top: 354px;
+	right: 9px;
+}
+.pBete4 {
+	float: right;
+	width: 100px;
+	height: 112px;
+	position: relative;
+	top: 50px;
+	right: 7px;
+}
+.ent2 {
+	font-size: 30px;
+	border: 1px solid black;
+	width: 400px;
+	background-color: white;
+	border-radius: 5px;
+	margin: 0 auto;
+	position: relative;
+	top: 40px;
+	box-shadow: -1px 2px 10px 3px rgba(0, 0, 0, 0.4) inset;
+}
+.contenu {
+	width: 1100px;
+	border: 1px solid #E70101;
+	border-radius: 5px;
+	margin: 0 auto;
+	background-color: white;
+	position: relative;
+	top: 60px;
+	height: 1380px;
+	margin-bottom: 60px;
+}
+p {
+	width: 200px;
+	margin: 0 auto;
+	position: relative;
+	top: 20px;
+	font-weight: bold;
+}
+.divForm {
+	border: 1px solid black;
+	width: 960px;
+	height: 1260px;
+	background-color: rgba(157, 157, 157, 0.06);
+	border-radius: 5px;
+	margin: 0 auto;
+	position: relative;
+	top: 40px;
+	box-shadow: -1px 2px 10px 3px rgba(0, 0, 0, 0.2) inset;
+	font-size: 20px;
+}
+.inf {
+	font-size: 20px;
+	font-weight: bold;
+	color: #E70101;
+	position: relative;
+	top: 110px;
+	left: 450px;
+}
+.inf2 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #E70101;
+	position: relative;
+	top: 287px;
+	left: 507px;
+}
+.inf3 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #E70101;
+	position: relative;
+	top: 10px;
+	left: 400px;
+}
+.inf4 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #E70101;
+	position: relative;
+	top: 30px;
+	left: 400px;
+}
+.inp {
+	width: 250px;
+	height: 25px;
+	border: 1px solid black;
+	background-color: white;
+	border-radius: 5px;
+}
+.monSpan {
+	width: 250px;
+	height: 25px;
+	border: 1px solid black;
+	background-color: white;
+	border-radius: 5px;
+	display: block;
+	text-align: center;
+}
+
+.inpRouge {
+	width: 250px;
+	height: 25px;
+	border: 1px solid #E70101;
+	background-color: white;
+	border-radius: 5px;
+}
+.tabMarges {
+	width: 840px;
+	position: relative;
+	left: 100px;
+	bottom: 135px;
+}
+td {
+	width: 465px;
+	height: 40px;
+	text-align: left;
+}
+.tabMarges2 {
+	width: 840px;
+	position: relative;
+	left: 100px;
+	bottom: 105px;
+}
+.hr1 {
+	position: relative;
+	bottom: 120px;
+	height: 1px;
+}
+.hr2 {
+	position: relative;
+	bottom: 95px;
+	height: 1px;
+}
+.hr3 {
+	position: relative;
+	bottom: 74px;
+	height: 1px;
+	width: 958px;
+}
+.hr4 {
+	position: relative;
+	bottom: 37px;
+	height: 1px;
+}
+.tabMarges3 {
+	position: relative;
+	left: 100px;
+	bottom: 75px;
+}
+.tabMarges4 {
+	position: relative;
+	left: 100px;
+	bottom: 80px;
+}
+.publ {
+	font-size: 25px;
+	position: relative;
+	left: 250px;
+	bottom: 35px;
+	width: 118px;
+	height: 28px;
+	border: 1px solid black;
+	background-color: white;
+	border-radius: 5px;
+	display: block;
+	text-align: center;
+}
+.pub {
+	position: relative;
+	left: 390px;
+	bottom: 60px;
+}
+.champTable {
+	width: 401px;
+}
+.boutton {
+	position: relative;
+	top: 10px;
+	width: 250px;
+	font-size: 30px;
+	background-color: white;
+	height: 35px;
+	border: 1px solid #0A0A0A;
+	box-shadow: -1px 2px 10px 3px rgba(77, 56, 56, 0.6) inset;
+	border-radius: 5px;
+}

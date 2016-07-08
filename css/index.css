@@ -1,0 +1,112 @@
+html, body {
+	height: 100%;
+	display: table;
+	width: 100%;
+}
+body {
+	background: url("../images/ville.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: table-cell;
+	vertical-align: middle;
+}
+.entet {
+	position: relative;
+	display: table;
+	margin: 0 auto;
+	color: #E70101;
+	font-size: 19px;
+	position: relative;
+	top: 27px;
+	left: 52px;
+}
+#index {
+	vertical-align: middle;
+	width: 500px;
+	height: 400px;
+	margin: 0 auto;
+	background-color: white;
+	border: 1px double #E70101;
+	border-radius: 5px;
+	box-shadow: -1px 2px 10px 3px rgba(0, 0, 0, 0.4) inset;
+	color: #E70101;
+	font-weight: 900;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+	position: relative;
+	top: 100px;
+	font-family: "Times New Roman", Times, serif;
+}
+img {
+	position: relative;
+	top: 15px;
+	left: 15px;
+	width: 40px;
+	height: 45px;
+}
+table {
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: 85px;
+}
+td {
+	text-align: center;
+}
+#tdDesc {
+	margin-bottom: 5px;
+}
+.input {
+	width: 300px;
+	height: 35px;
+	border: 1px solid #E70101;
+	border-radius: 3px;
+}
+.courriel {
+	cursor: auto;
+}
+#deplacable {
+	position: relative;
+	bottom: 300px;
+}
+.intro {
+	position: relative;
+	right: 95px;
+}
+.introMP {
+	position: relative;
+	right: 105px;
+}
+#tdDesc2 {
+	margin-bottom: 26px;
+}
+#boutSum {
+	background-image: radial-gradient(ellipse farthest-corner at center, #FFFFFF 0%, #999999 100%);
+	font-size: 18px;
+	color: #E70101;
+	font-family: "Times New Roman", Times, serif;
+}
+.nouvUt {
+	font-size: 18px;
+	font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+	color: #464646;
+	position: relative;
+	top: 20px;
+}
+.insc {
+	color: #E70101;
+}
+a {
+	text-decoration: none;
+}
+p {
+	width: 200px;
+	margin: 0 auto;
+	position: relative;
+	bottom: 100px;
+	font-weight: bold;
+}
